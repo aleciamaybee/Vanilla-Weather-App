@@ -103,8 +103,10 @@ li:first-letter {
 }
 
 .weather-forecast-high {
+  font-weight: 600;
 }
 
 .weather-forecast-low {
   opacity: 0.5;
+  font-weight: 600;
 }
